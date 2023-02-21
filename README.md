@@ -6,7 +6,7 @@
 
 ## Methods with Return Types
 
-Let's continue with the block part example from before.
+Let's continue with the block party example from before.
 
 Assume the neighborhood wants to get a headcount of the guests to see how many
 people attended the party. Let's write a method to get the headcount:
