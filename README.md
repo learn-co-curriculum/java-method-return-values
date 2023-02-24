@@ -140,12 +140,12 @@ the code after the `return` statement can never be reached by the JVM and is
 therefore considered invalid:
 
 ```java
-    public static double percentInFavor(double numberInFavor, double headcount) {
-        double fraction = numberInFavor / headcount;
-        double percent = fraction * 100.0;
-        return percent;
-        System.out.println("Let's do another block party!");
-        }
+public static double percentInFavor(double numberInFavor, double headcount) {
+    double fraction = numberInFavor / headcount;
+    double percent = fraction * 100.0;
+    return percent;
+    System.out.println("Let's do another block party!");
+}
 ```
 
 ## Comprehension Check
